@@ -1,1 +1,1 @@
-click object to prompt joystick
+click screen to prompt joystick
